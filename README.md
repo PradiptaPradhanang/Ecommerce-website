@@ -4,4 +4,4 @@ Website powered by Django
 
 Hosted in pythonanywhere.com
 
-pradipta.pythonanywhere.com/shop/
+http://pradipta.pythonanywhere.com/shop/
